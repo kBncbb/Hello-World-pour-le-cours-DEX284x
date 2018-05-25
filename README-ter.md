@@ -1,0 +1,1 @@
+Ce fichier pour créer quelque chose qui génère un comportement dans Visual Studio
